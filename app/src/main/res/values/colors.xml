@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="info">#ff7dc2c4</color>
+    <color name="back_info">#327dc2c4</color>
+    <color name="warning">#fff1f674</color>
+    <color name="back_warning">#32f1f674</color>
+    <color name="error">#ffffa600</color>
+    <color name="back_error">#32ffa600</color>
+    <color name="panic">#ffff0000</color>
+    <color name="back_panic">#32ff0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
